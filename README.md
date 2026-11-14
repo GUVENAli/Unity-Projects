@@ -16,7 +16,7 @@ This project demonstrates a basic character control and damage system using Unit
 
 **Preview:**
 
-![Raycasting & Character Damage](RayCasting-CharacterControl/Pictures/DamageEffect.png)
+![Raycasting & Character Damage](/RayCasting-CharacterControl/Pictures/DamageEffect.png)
 
 ---
 
