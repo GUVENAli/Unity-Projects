@@ -17,8 +17,8 @@ The player controls the character using the on-screen joystick.
 
 ![Character Movement](Pictures/JoyStickUsage.png)
 
-### 4. Shooting Mechanism
-The player can shoot at other characters or objects by pressing the right mouse button.
+### 4. Shooting Mechanism and Damage Effect
+The player can shoot at other characters or objects by pressing the right mouse button. When the strike hits the character or the object, the color turns red for a short time, then reverts to its original color.
 
 ![Shooting Mechanism](Pictures/RayCasting.png)
 
