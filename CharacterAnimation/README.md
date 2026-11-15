@@ -34,3 +34,10 @@ To make the character run, move the joystick all the way to its maximum position
 ![Jump Animation](pictures/jumping.png)
 
 To make the character jump, simply press the **Jump** button.
+
+## To-Do List
+
+- [ ] Add a return animation to the character.
+- [ ] Add lying down and crouching animations.
+- [ ] Implement weapon handling and shooting simulations.
+- [ ] Implement object interaction simulations.
