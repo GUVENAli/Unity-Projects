@@ -32,7 +32,7 @@ This project focuses on creating character animations from a T-Pose reference mo
 
 **Preview:**
 
-![Character Animation](images/character-animation.png)
+![Character Animation](/CharacterAnimation/Pictures/Jump-animation.png)
 
 ---
 
