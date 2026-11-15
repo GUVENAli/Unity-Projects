@@ -11,27 +11,32 @@ The character was created using **Anything World** and **Mixamo**. The following
 
 ## Controls and Animations
 
+### Character
+
+![Idle Animation](Pictures/Character.PNG)
+![Idle Animation](Pictures/Scene.PNG)
+
 ### Idle Animation
 
-![Idle Animation](pictures/idle.png)
+![Idle Animation](Pictures/Idle.png)
 
 The character remains idle when no input is provided.
 
 ### Walking Animation
 
-![Walking Animation](pictures/walking.png)
+![Walking Animation](Pictures/Walk.png)
 
 To make the character walk, slightly move the on-screen joystick.
 
 ### Running Animation
 
-![Running Animation](pictures/running.png)
+![Running Animation](Pictures/Run.png)
 
 To make the character run, move the joystick all the way to its maximum position.
 
 ### Jump Animation
 
-![Jump Animation](pictures/jumping.png)
+![Jump Animation](Pictures/Jump.png)
 
 To make the character jump, simply press the **Jump** button.
 
