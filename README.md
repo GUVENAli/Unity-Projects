@@ -36,6 +36,26 @@ This project focuses on creating character animations from a T-Pose reference mo
 
 ---
 
+### 3. 2D Game Development
+
+This project focuses on developing a 2D city-building game using Unity. Players can build and expand their own cities while interacting with buildings and controlling a character.
+
+**Features:**
+- Main menu with English and Turkish language selection.
+- New Game and Continue options with saved game progress support.
+- Settings menu for adjusting background music and sound effects volume.
+- Four different building types for constructing and expanding the city.
+- Unique sound effects for each constructed building.
+- Interactive buildings that can be activated or deactivated using the skull button.
+- Character movement animations.
+- Initial game screen and first level implementation.
+  
+**Preview:**
+
+![Game 2D](/Game2D/Pictures/animation.png)
+
+---
+
 ## Technologies & Tools
 
 - Unity 6.0
